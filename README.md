@@ -17,6 +17,9 @@ Clone GitLazy to your project's path, such that the form is:
 
 `~/YOUR-PROJECT/GitLazy/`
 
+Also, please note that this repo is currently structured for the code challenge
+and thus the main library is under ~/mock_dev_env/GitLazy.
+
 ## Running
 I have included the config inside the app.js for this project as well as two
 helper functions that I would suggest aliasing for easy of running.
