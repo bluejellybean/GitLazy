@@ -17,6 +17,9 @@ Clone GitLazy to your project's path, such that the form is:
 
 `~/YOUR-PROJECT/GitLazy/`
 
+On top of the clone, add a .version file with the format of v0.0.0 in your
+projects path.
+
 Also, please note that this repo is currently structured for the code challenge
 and thus the main library is under ~/mock_dev_env/GitLazy.
 
