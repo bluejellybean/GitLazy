@@ -29,11 +29,11 @@ helper functions that I would suggest aliasing for easy of running.
 
 To pull remote code onto your local machine:
 
-`node -e 'require("./app.js").push()`
+`node -e 'require("./app.js").push()'`
 
 To push local code onto a remote machine:
 
-`node -e 'require("./app.js").push()`
+`node -e 'require("./app.js").push()'`
 
 
 ## Testing
